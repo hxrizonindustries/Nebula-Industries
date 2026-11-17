@@ -1,2 +1,3 @@
-# Nebula-Industries
-Nebula Industries Corporation Desktop Application
+# NEBULA INDUSTRIES DESKTOP APP
+
+Small project developed by Horizxnn.
